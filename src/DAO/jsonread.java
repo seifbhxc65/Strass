@@ -15,7 +15,7 @@ public class jsonread
     public static void main(String[] args) throws ParseException, org.json.simple.parser.ParseException 
     {
         //JSON parser object to parse read file
-    	
+    	//fichier hedhi t5ademha mara barka bech 3abilk restaurent li fil fichier json lil base
         JSONParser jsonParser = new JSONParser();
         System.out.println("dsds".replaceAll("", ""));
         try (FileReader reader = new FileReader("C:\\Users\\Asus\\eclipse-workspace\\ProjectX\\src\\DAO\\sousse.json"))
